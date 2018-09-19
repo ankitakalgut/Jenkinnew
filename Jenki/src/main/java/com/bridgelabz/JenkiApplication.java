@@ -16,6 +16,6 @@ public class JenkiApplication {
 	@GetMapping("/")
 	public String  test() 
 	{
-		return "Hello";
+		return "Hello boss";
 	}
 }
