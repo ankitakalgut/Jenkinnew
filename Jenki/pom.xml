@@ -6,7 +6,7 @@
 	<groupId>com.bridgelabz</groupId>
 	<artifactId>Jenki</artifactId>
 	<version>aws</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Jenki</name>
 	<description>AWS Project</description>
